@@ -21,9 +21,7 @@
 <a href="https://twitter.com/piyushdixit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushdixit_" height="30" width="40" /></a>
 <a href="https://t.me/Killer_PD" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/undefined/telegram-app.png" alt="piyushdixit_" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/piyushdixim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="piyushdixim" /></a></p><br><br><br>
+<br><br><br>
 
 
 
