@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushdixit96" alt="piyushdixit96" /></a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=piyushdixit96&show_icons=true&locale=en" alt="piyushdixit96" />&nbsp;&nbsp;
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=piyushdixit96" alt="piyushdixit96" />&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=piyushdixit96" alt="piyushdixit96" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushdixit96&show_icons=true&locale=en&layout=compact" alt="piyushdixit96" /></p>
 
